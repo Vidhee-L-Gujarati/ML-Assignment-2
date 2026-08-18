@@ -27,7 +27,7 @@ and view its evaluation metrics, predictions, and confusion matrix.
 
 ## c. GitHub Repository Link
 > **TODO:** Replace with your actual repository URL after you push this code,
-> e.g. `https://github.com/<your-username>/ml-assignment-2-breast-cancer`
+> e.g. `[https://github.com/<your-username>/ml-assignment-2-breast-cance](https://github.com/Vidhee-L-Gujarati/ML-Assignment-2)r`
 
 ## d. Models Used
 
@@ -95,4 +95,4 @@ streamlit run app.py
 3. Clicked **New App** → selected this repository → branch `main` → file `app.py`.
 4. Clicked **Deploy**.
 
-> **Live Streamlit App Link:** *TODO — paste your deployed app URL here*
+> **Live Streamlit App Link:** *ml-assignment-2-ilbijdb46kxj9bcrdpjzmj.streamlit.app*
